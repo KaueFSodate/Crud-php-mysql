@@ -7,7 +7,7 @@ $products = array(
         'Nome' => 'Camiseta',
         'Valor' => 29.99,
         'quantidade' => 1,
-        'imagem' => 'https://i5.walmartimages.com/asr/07c38307-9678-4450-b190-c0b384f4ed6c_1.fe881ef2cc4bb838e516fff313c4b559.jpeg'
+        'imagem' => 'https://4429028l.ha.azioncdn.net/img/2022/09/produto/11100/cafe-skul.jpg?ims=461x615'
     ),
     array(
         'id' => $indice,
