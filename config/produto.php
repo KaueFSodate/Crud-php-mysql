@@ -15,7 +15,7 @@ $products = array(
         'Nome' => 'Calça Jeans',
         'Valor' => 79.99,
         'quantidade' => 1,
-        'imagem' => 'caminho/para/imagem2.jpg'
+        'imagem' => 'https://i5.walmartimages.com/asr/07c38307-9678-4450-b190-c0b384f4ed6c_1.fe881ef2cc4bb838e516fff313c4b559.jpeg'
     ),
     array(
         'id' => $indice,
@@ -23,7 +23,7 @@ $products = array(
         'Nome' => 'Tênis',
         'Valor' => 99.99,
         'quantidade' => 1,
-        'imagem' => 'caminho/para/imagem3.jpg'
+        'imagem' => 'https://i5.walmartimages.com/asr/07c38307-9678-4450-b190-c0b384f4ed6c_1.fe881ef2cc4bb838e516fff313c4b559.jpeg'
     ),
     array(
         'id' => $indice,
@@ -31,7 +31,7 @@ $products = array(
         'Nome' => 'Óculos de Sol',
         'Valor' => 59.99,
         'quantidade' => 1,
-        'imagem' => 'caminho/para/imagem4.jpg'
+        'imagem' => 'https://i5.walmartimages.com/asr/07c38307-9678-4450-b190-c0b384f4ed6c_1.fe881ef2cc4bb838e516fff313c4b559.jpeg'
     ),
     array(
         'id' => $indice,
@@ -39,7 +39,7 @@ $products = array(
         'Nome' => 'Bolsa',
         'Valor' => 39.99,
         'quantidade' => 1,
-        'imagem' => 'caminho/para/imagem5.jpg'
+        'imagem' => 'https://i5.walmartimages.com/asr/07c38307-9678-4450-b190-c0b384f4ed6c_1.fe881ef2cc4bb838e516fff313c4b559.jpeg'
     ),
     array(
         'id' => $indice,
@@ -47,7 +47,7 @@ $products = array(
         'Nome' => 'Relógio',
         'Valor' => 129.99,
         'quantidade' => 1,
-        'imagem' => 'caminho/para/imagem6.jpg'
+        'imagem' => 'https://i5.walmartimages.com/asr/07c38307-9678-4450-b190-c0b384f4ed6c_1.fe881ef2cc4bb838e516fff313c4b559.jpeg'
     ),
     array(
         'id' => $indice,
@@ -55,7 +55,7 @@ $products = array(
         'Nome' => 'Chapéu',
         'Valor' => 19.99,
         'quantidade' => 1,
-        'imagem' => 'caminho/para/imagem7.jpg'
+        'imagem' => 'https://i5.walmartimages.com/asr/07c38307-9678-4450-b190-c0b384f4ed6c_1.fe881ef2cc4bb838e516fff313c4b559.jpeg'
     ),
     array(
         'id' => $indice,
@@ -63,7 +63,7 @@ $products = array(
         'Nome' => 'Saia',
         'Valor' => 49.99,
         'quantidade' => 1,
-        'imagem' => 'caminho/para/imagem8.jpg'
+        'imagem' => 'https://i5.walmartimages.com/asr/07c38307-9678-4450-b190-c0b384f4ed6c_1.fe881ef2cc4bb838e516fff313c4b559.jpeg'
     ),
     array(
         'id' => $indice,
@@ -71,7 +71,7 @@ $products = array(
         'Nome' => 'Jaqueta',
         'Valor' => 89.99,
         'quantidade' => 1,
-        'imagem' => 'caminho/para/imagem9.jpg'
+        'imagem' => 'https://i5.walmartimages.com/asr/07c38307-9678-4450-b190-c0b384f4ed6c_1.fe881ef2cc4bb838e516fff313c4b559.jpeg'
     ),
     array(
         'id' => $indice,
@@ -79,7 +79,7 @@ $products = array(
         'Nome' => 'Sapato Social',
         'Valor' => 109.99,
         'quantidade' => 1,
-        'imagem' => 'caminho/para/imagem10.jpg'
+        'imagem' => 'https://i5.walmartimages.com/asr/07c38307-9678-4450-b190-c0b384f4ed6c_1.fe881ef2cc4bb838e516fff313c4b559.jpeg'
     ),
     array(
         'id' => $indice,
@@ -87,7 +87,7 @@ $products = array(
         'Nome' => 'Brincos',
         'Valor' => 14.99,
         'quantidade' => 1,
-        'imagem' => 'caminho/para/imagem11.jpg'
+        'imagem' => 'https://i5.walmartimages.com/asr/07c38307-9678-4450-b190-c0b384f4ed6c_1.fe881ef2cc4bb838e516fff313c4b559.jpeg'
     ),
     array(
         'id' => $indice,
@@ -95,7 +95,7 @@ $products = array(
         'Nome' => 'Calça Legging',
         'Valor' => 34.99,
         'quantidade' => 1,
-        'imagem' => 'caminho/para/imagem12.jpg'
+        'imagem' => 'https://i5.walmartimages.com/asr/07c38307-9678-4450-b190-c0b384f4ed6c_1.fe881ef2cc4bb838e516fff313c4b559.jpeg'
     ),
     array(
         'id' => $indice,
@@ -103,7 +103,7 @@ $products = array(
         'Nome' => 'Carteira',
         'Valor' => 24.99,
         'quantidade' => 1,
-        'imagem' => 'caminho/para/imagem13.jpg'
+        'imagem' => 'https://i5.walmartimages.com/asr/07c38307-9678-4450-b190-c0b384f4ed6c_1.fe881ef2cc4bb838e516fff313c4b559.jpeg'
     ),
     array(
         'id' => $indice,
@@ -111,7 +111,7 @@ $products = array(
         'Nome' => 'Boné',
         'Valor' => 24.99,
         'quantidade' => 1,
-        'imagem' => 'caminho/para/imagem14.jpg'
+        'imagem' => 'https://i5.walmartimages.com/asr/07c38307-9678-4450-b190-c0b384f4ed6c_1.fe881ef2cc4bb838e516fff313c4b559.jpeg'
     ),
     array(
         'id' => $indice,
@@ -119,7 +119,7 @@ $products = array(
         'Nome' => 'Vestido',
         'Valor' => 59.99,
         'quantidade' => 1,
-        'imagem' => 'caminho/para/imagem15.jpg'
+        'imagem' => 'https://i5.walmartimages.com/asr/07c38307-9678-4450-b190-c0b384f4ed6c_1.fe881ef2cc4bb838e516fff313c4b559.jpeg'
     ),
     array(
         'id' => $indice,
@@ -127,7 +127,7 @@ $products = array(
         'Nome' => 'Moletom',
         'Valor' => 69.99,
         'quantidade' => 1,
-        'imagem' => 'caminho/para/imagem16.jpg'
+        'imagem' => 'https://i5.walmartimages.com/asr/07c38307-9678-4450-b190-c0b384f4ed6c_1.fe881ef2cc4bb838e516fff313c4b559.jpeg'
     ),
     array(
         'id' => $indice,
@@ -135,7 +135,7 @@ $products = array(
         'Nome' => 'Pulseira',
         'Valor' => 9.99,
         'quantidade' => 20,
-        'imagem' => 'caminho/para/imagem17.jpg'
+        'imagem' => 'https://i5.walmartimages.com/asr/07c38307-9678-4450-b190-c0b384f4ed6c_1.fe881ef2cc4bb838e516fff313c4b559.jpeg'
     ),
     array(
         'id' => $indice,
@@ -143,7 +143,7 @@ $products = array(
         'Nome' => 'Blusa',
         'Valor' => 39.99,
         'quantidade' => 1,
-        'imagem' => 'caminho/para/imagem18.jpg'
+        'imagem' => 'https://i5.walmartimages.com/asr/07c38307-9678-4450-b190-c0b384f4ed6c_1.fe881ef2cc4bb838e516fff313c4b559.jpeg'
     ),
     array(
         'id' => $indice,
@@ -151,7 +151,7 @@ $products = array(
         'Nome' => 'Calçados Esportivos',
         'Valor' => 89.99,
         'quantidade' => 1,
-        'imagem' => 'caminho/para/imagem19.jpg'
+        'imagem' => 'https://i5.walmartimages.com/asr/07c38307-9678-4450-b190-c0b384f4ed6c_1.fe881ef2cc4bb838e516fff313c4b559.jpeg'
     ),
     array(
         'id' => $indice,
@@ -159,7 +159,7 @@ $products = array(
         'Nome' => 'Cinto',
         'Valor' => 19.99,
         'quantidade' => 1,
-        'imagem' => 'caminho/para/imagem20.jpg'
+        'imagem' => 'https://i5.walmartimages.com/asr/07c38307-9678-4450-b190-c0b384f4ed6c_1.fe881ef2cc4bb838e516fff313c4b559.jpeg'
     )
 );
 
